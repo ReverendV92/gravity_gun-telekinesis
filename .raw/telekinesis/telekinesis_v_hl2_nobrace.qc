@@ -2,7 +2,7 @@
 $opaque
 $origin 0 0 66
 
-//$modelname "jessev92/weapons/telekinesis_c.mdl"
+//$modelname jessev92/weapons/telekinesis_c
 $modelname "weapons/v_physcannon.mdl"
 //$modelname "weapons/v_superphyscannon.mdl"
 $include c_arms_definebones.qci // include c_arms_definebones.qci in your model to ensure bones don't disappear.
